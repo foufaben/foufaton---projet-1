@@ -1,0 +1,26 @@
+h1:hover { 
+	
+	color: red; 
+	font-size: 20;
+	font-style:oblique;
+}
+
+p:active
+
+{  display:inline-block;
+ font-size: 45;	
+	font-kerning: auto;
+	color: red;
+	font-family: cursive;
+
+}
+div{position: all; 
+	left:30%;
+     right:30%;
+
+}
+
+
+#creation{
+	display: inline;
+}
